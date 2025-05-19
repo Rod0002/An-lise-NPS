@@ -34,4 +34,4 @@ python nps_analysis.py
 
 ## Exemplo de Visualização
 
-![Gráfico gerado pelo programa](https://imgur.com/lhni7RD)
+![Gráfico gerado pelo programa]([https://imgur.com/lhni7RD.png])
